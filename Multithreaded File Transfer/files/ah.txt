@@ -1,0 +1,8 @@
+metas
+
+- fazer o socket funcionar
+- fazer a transferencia de arquivo
+- limitar a 64
+- cache
+- colocar o thread
+- exclusão mutuas
